@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ms">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Happy Birthday Kawan</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700;800&family=Pacifico&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="confetti" aria-hidden="true"></div>
+
+    <main class="card">
+      <section class="slide active">
+        <div id="page2Playground" class="page2-playground" aria-hidden="true"></div>
+        <p id="tag" class="tag"></p>
+        <img
+          id="gift"
+          class="gift"
+          src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+          alt="Gift"
+        />
+        <h1 id="title"></h1>
+        <p id="message" class="message"></p>
+        <p id="hint" class="hint"></p>
+        <p id="signature" class="signature"></p>
+      </section>
+
+      <div class="nav-actions">
+        <button id="prevBtn" type="button">Sebelumnya</button>
+        <button id="nextBtn" type="button">Seterusnya</button>
+      </div>
+
+      <p id="status" class="status">Tekan ikon muzik di kanan bawah untuk buka atau mute lagu.</p>
+    </main>
+
+    <button id="musicToggle" class="music-toggle muted" type="button" aria-label="Buka muzik">
+      <span class="icon-music" aria-hidden="true">♪</span>
+      <span class="icon-mute" aria-hidden="true"></span>
+    </button>
+
+    <audio id="birthdaySong" loop>
+      <source src="innocence.mp3" type="audio/mpeg" />
+      Browser anda tidak menyokong audio.
+    </audio>
+
+    <script src="script.js"></script>
+  </body>
+</html>
