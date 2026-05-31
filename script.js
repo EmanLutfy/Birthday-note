@@ -189,12 +189,13 @@ function render(pushUrl = false) {
           <button id="p4Shot" class="p4-btn p4-btn-pink" type="button">Jangan share kt sapa ii auu </button>
         </div>
         <p class="p4-sign">
+          dibuat dengan hati oleh 
         <a
           href="https://x.com/Aiman_Asril"
           target="_blank"
           class="p4-credit"
           >
-          dibuat dengan hati oleh? tekan sini </p>
+          @EmanLutfy </p>
       </div>
     </div>
   `;
