@@ -10,12 +10,12 @@ const stories = [
   {
     path: "/story-2",
     title: "HI IRFAN HI HI IRFAN HI HI HI HI IRFAN HI HI HI HI IRFAN 😺😺😺😺",
-    message: "Tak kan lah tak igt birthday kan , tak ckp pun mmg dah tau dri thun lps bila birthday ifan, sje je tdi ❤️😹, okyy next tapi jangan terkejut pulak HAHHA"
+    message: "Tak kan lah tak igt birthday kan , tak ckp pun mmg dah tau dri dulu bila birthday ifan, sje je tdi ❤️😹, okyy next tapi jangan terkejut pulak HAHHA"
   },
   {
     path: "/story-3",
     title: "",
-    message: "Janganlah palau atau seen chat 😔 ataupun dry bole tak? sumpah sakit do :("
+    message: "Janganlah palau atau seen chat 😔 ataupun dry bole tak? atau bgi sticker je pastu snyp pdhl dia msj dulu. sumpah sakit do :("
   },
   {
     path: "/story-4",
