@@ -188,7 +188,13 @@ function render(pushUrl = false) {
           <button id="p4Again" class="p4-btn p4-btn-orange" type="button">Lagi sekali😹</button>
           <button id="p4Shot" class="p4-btn p4-btn-pink" type="button">Jangan share kt sapa ii auu </button>
         </div>
-        <p class="p4-sign">dibuat dengan hati oleh? </p>
+        <p class="p4-sign">
+        <a
+          href="https://x.com/Aiman_Asril"
+          target="_blank"
+          class="p4-credit"
+          >
+          dibuat dengan hati oleh? tekan sini </p>
       </div>
     </div>
   `;
