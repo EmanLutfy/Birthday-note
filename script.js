@@ -10,17 +10,17 @@ const stories = [
   {
     path: "/story-2",
     title: "HI IRFAN HI HI IRFAN HI HI HI HI IRFAN HI HI HI HI IRFAN 😺😺😺😺",
-    message: "Tak kan lah tak igt birthday, tak  ckp pun mmg dah tau dri thun lps bila birthday ifan, sje je tdi ❤️😹, bersedia tak ? tapi jangan terkejut pulak HAHHA"
+    message: "Tak kan lah tak igt birthday kan , tak ckp pun mmg dah tau dri thun lps bila birthday ifan, sje je tdi ❤️😹, okyy next tapi jangan terkejut pulak HAHHA"
   },
   {
     path: "/story-3",
     title: "",
-    message: "Janganlah palau atau seen chat 😔 ataupun dry bole tak?"
+    message: "Janganlah palau atau seen chat 😔 ataupun dry bole tak? sumpah sakit do :("
   },
   {
     path: "/story-4",
     title: "🎉 Selamat Hari Lahir, Irfan! 🎉",
-    message: "Semoga Allah panjangkan umur, dilimpahkan rezeki, sihat selalu, dan jadi orang yang berjaya di dunia dan akhirat. Terima kasih sbb bagi brainrot dan tak scam wktu first kenal, kenal kau adalah moment terbaik yang pernah terjadi 2tahun kebelakang ni. Soalan last, kau anggap aq ape ? kwn baik ke ? aq hrp tak sbb aq anggp kau lebih dri itu wkkw. Okey tu je . Semoga tahun 2026 menjadi tahun yang indah untuk irfan.❤️"
+    message: "Semoga Allah panjangkan umur, dilimpahkan rezeki, sihat selalu, dan jadi orang yang berjaya di dunia dan akhirat. Terima kasih sbb bagi brainrot dan tak scam wktu first kenal. Kenal kau adalah moment terbaik yang pernah terjadi 2 tahun kebelakang ni. Soalan last, kau anggap aq ape ? kwn baik ke ? aq hrp tak sbb aq anggp kau lebih dri itu. Okey tu je . Semoga tahun 2026 menjadi tahun yang indah untuk Irfan.❤️"
   }
 ];
 
@@ -367,7 +367,7 @@ btn.addEventListener("touchstart", (e) => {
           alt="Birthday Person"
         >
 
-        <h2>ohh , Lupa nak cakap, ni la Irfan tu, dh janji eh xnk bluetick </h2>
+        <h2>ohh lupa nak cakap, ni la Irfan tu, dh janji eh xnk bluetick </h2>
 
         <p>
           hensem kan, ramai awek minat 👀
