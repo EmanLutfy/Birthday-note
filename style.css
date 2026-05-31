@@ -16,8 +16,7 @@ body {
   min-height: 100vh;
   font-family: "Baloo 2", sans-serif;
   color: var(--text);
-  background: radial-gradient(circle at 15% 20%, #ffffffaa 0 8%, transparent 8%),
-    linear-gradient(135deg, var(--bg1), var(--bg2) 45%, var(--bg3));
+  background: linear-gradient(135deg, var(--bg1), var(--bg2) 45%, var(--bg3));
   display: grid;
   place-items: center;
   padding: 22px;
@@ -432,6 +431,19 @@ body.page-two {
   animation: pageOneGradient 14s ease infinite;
 }
 
+body.page-three {
+  background: linear-gradient(135deg, #fce7f3, #f3e8ff, #ede9fe, #fce7f3, #fff1f2);
+  background-size: 400% 400%;
+  animation: pageOneGradient 14s ease infinite;
+}
+
+body.page-three .card {
+  width: min(860px, 96vw);
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
 body.page-two .card {
   width: min(980px, 97vw);
   min-height: 88vh;
@@ -765,5 +777,161 @@ body.page-two .p2-center {
   }
   100% {
     transform: translateX(-50%) translateY(0);
+  }
+}
+
+.wish-layout{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:40px;
+  min-height:80vh;
+  flex-wrap:wrap;
+}
+
+.wish-cat{
+  width:320px;
+  border-radius:24px;
+  transform:rotate(-5deg);
+  box-shadow:0 15px 30px rgba(0,0,0,.15);
+}
+
+.wish-card{
+  width:420px;
+  background:#fff;
+  padding:30px;
+  border-radius:24px;
+  box-shadow:0 15px 30px rgba(0,0,0,.12);
+}
+
+.wish-card small{
+  color:#ff5c8a;
+  font-weight:800;
+  letter-spacing:2px;
+}
+
+.wish-card h2{
+  color:#c2185b;
+  margin:10px 0;
+  font-size:3rem;
+}
+
+.wish-card p{
+  color:#c2185b;
+  font-size:1.2rem;
+}
+
+.run-btn{
+  margin-top:25px;
+  background:#5d677c;
+  color:white;
+  font-size:1.6rem;
+  padding:18px 45px;
+  border-radius:999px;
+}
+
+.ok-btn{
+  margin-top:15px;
+  background:linear-gradient(90deg,#ff4d7e,#c026d3);
+  color:white;
+  font-size:1.1rem;
+}
+
+.birthday-popup{
+
+  position:fixed;
+  inset:0;
+
+  background:rgba(0,0,0,.45);
+
+  backdrop-filter:blur(8px);
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  z-index:99999;
+}
+
+.birthday-popup-card{
+
+  width:420px;
+  max-width:90vw;
+
+  background:#fff4f8;
+
+  border:3px solid #f8a5c2;
+
+  border-radius:30px;
+
+  padding:25px;
+
+  text-align:center;
+
+  animation:popupIn .3s ease;
+}
+
+.birthday-popup-img{
+
+  width:220px;
+  height:220px;
+
+  object-fit:cover;
+
+  border-radius:20px;
+}
+
+.birthday-popup-card h2{
+
+  color:#d81b60;
+
+  font-size:2.4rem;
+
+  margin:15px 0;
+}
+
+.birthday-popup-card p{
+
+  color:#c2185b;
+
+  font-size:1.2rem;
+}
+
+#popupNextBtn{
+
+  margin-top:15px;
+
+  border:none;
+
+  border-radius:999px;
+
+  padding:15px 30px;
+
+  font-size:1.1rem;
+
+  color:white;
+
+  font-weight:bold;
+
+  cursor:pointer;
+
+  background:
+  linear-gradient(
+    90deg,
+    #ff4d7e,
+    #c026d3
+  );
+}
+
+@keyframes popupIn{
+
+  from{
+    opacity:0;
+    transform:scale(.8);
+  }
+
+  to{
+    opacity:1;
+    transform:scale(1);
   }
 }
