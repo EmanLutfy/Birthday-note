@@ -288,8 +288,8 @@ async function startSong() {
   try {
     await song.play();
     statusText.textContent = song.muted
-      ? "Muzik dimute. Tekan ikon untuk buka semula."
-      : "Lagu sedang dimainkan. Selamat hari jadi, kawan!";
+      ? "Tekan ikon untuk lagu"
+      : "Lagu sedang dimainkan.";
   } catch (error) {
     statusText.textContent = "";
   }
