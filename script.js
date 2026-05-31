@@ -471,7 +471,7 @@ function ensurePage3Styles() {
     .run-btn {
       background: #fb7185;
       position: relative;
-      z-index 10;
+      z-index: 10;
     }
 
     .ok-btn {
