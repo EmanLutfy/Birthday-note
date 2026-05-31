@@ -195,7 +195,7 @@ function render(pushUrl = false) {
           target="_blank"
           class="p4-credit"
           >
-          @orgini </p>
+          @org ini </p>
       </div>
     </div>
   `;
