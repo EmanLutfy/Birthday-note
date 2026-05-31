@@ -15,12 +15,12 @@ const stories = [
   {
     path: "/story-3",
     title: "",
-    message: "Janganlah palau atau seen chat 😔 ataupun dry bole tak? atau bgi sticker je pastu snyp pdhl dia msj dulu. sumpah sakit do :("
+    message: "Janganlah palau atau seen chat 😔 ataupun dry bole tak? atau bgi sticker je pastu snyp pdhl dia msj dulu. Sumpah sakit do :("
   },
   {
     path: "/story-4",
     title: "🎉 Selamat Hari Lahir, Irfan! 🎉",
-    message: "Semoga Allah panjangkan umur, dilimpahkan rezeki, sihat selalu, dan jadi orang yang berjaya di dunia dan akhirat. Terima kasih sbb bagi brainrot dan tak scam wktu first kenal. Kenal kau adalah moment terbaik yang pernah terjadi 2 tahun kebelakang ni. Soalan last, kau anggap aq ape ? kwn baik ke ? aq hrp tak sbb aq anggp kau lebih dri itu. Okey tu je . Semoga tahun 2026 menjadi tahun yang indah untuk Irfan.❤️"
+    message: "Semoga Allah panjangkan umur, dilimpahkan rezeki, sihat selalu, dan jadi orang yang berjaya di dunia dan akhirat. Terima kasih sbb bagi brainrot dan tak scam wktu first kenal. Kenal kau adalah moment terbaik yang pernah terjadi kt aq dari 2 tahun kebelakang ni. Soalan last, kau anggap aq ape ? kwn baik ke ? aq hrp tak sbb aq anggp kau lebih dri itu. Okey tu je . Semoga tahun 2026 menjadi tahun yang indah untuk Irfan.❤️"
   }
 ];
 
