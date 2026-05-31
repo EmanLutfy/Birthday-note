@@ -165,7 +165,7 @@ function render(pushUrl = false) {
   page2Playground.innerHTML = `
     <div class="p4-wrap">
       <img class="p4-g p4-a" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE2djN5YzJpZHl2eHI4cXU0emcwa3FseHRwODByM3M0bnd2ajZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" alt="celebration" />
-      <img class="p4-g p4-b" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5pcHRyeGphNDIwdWh4dWFyc2U0bGdoNWVnZzFrcjNkbmxyaHIydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAXXHdS0zXawVLOJLY/giphy.gif" alt="celebration" />
+      <img class="p4-g p4-b" src="https://media1.tenor.com/m/MKkJWYigjycAAAAd/cute-cat-cat-cute.gif" alt="celebration" />
       <img class="p4-g p4-e" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VkeXNvb2phczU1aWNnZWpjdW9qMjY0d3NvaGJtcXNjeXdiZmgweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iXbnkZTxCo4t8l8mxK/giphy.gif" alt="celebration" />
       <img class="p4-g p4-f" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p3NGhkNGtmY3Nxb3kwa3J1ZWE2Ym5wa2UzanFtbXc2b2Y0djEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gSQp32H82WETR5EFO6/giphy.gif" alt="celebration" />
 
@@ -195,7 +195,7 @@ function render(pushUrl = false) {
           target="_blank"
           class="p4-credit"
           >
-          @EmanLutfy </p>
+          org ini </p>
       </div>
     </div>
   `;
