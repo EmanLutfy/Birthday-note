@@ -20,7 +20,7 @@ const stories = [
   {
     path: "/story-4",
     title: "🎉 Selamat Hari Lahir, Irfan! 🎉",
-    message: "Semoga Allah panjangkan umur, dilimpahkan rezeki, sihat selalu, dan jadi orang yang berjaya di dunia dan akhirat. Terima kasih sbb bagi brainrot dan tak scam wktu first kenal, kenal kau adalah moment terbaik yang pernah terjadi 2tahun kebelakang ni. Soalan last, kau anggap aq ape ? kwn baik ke ? aq hrp tak sbb aq anggp kau lebih dri itu wkkw. Okey tu je .Semoga tahun 2026 menjadi tahun yang indah untuk irfan.❤️"
+    message: "Semoga Allah panjangkan umur, dilimpahkan rezeki, sihat selalu, dan jadi orang yang berjaya di dunia dan akhirat. Terima kasih sbb bagi brainrot dan tak scam wktu first kenal, kenal kau adalah moment terbaik yang pernah terjadi 2tahun kebelakang ni. Soalan last, kau anggap aq ape ? kwn baik ke ? aq hrp tak sbb aq anggp kau lebih dri itu wkkw. Okey tu je . Semoga tahun 2026 menjadi tahun yang indah untuk irfan.❤️"
   }
 ];
 
