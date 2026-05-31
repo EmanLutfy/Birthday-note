@@ -304,8 +304,8 @@ musicToggle.addEventListener("click", async () => {
   localStorage.setItem("birthdayMuted", String(song.muted));
   syncMusicButton();
   statusText.textContent = song.muted
-    ? "Muzik dimute. Tekan ikon untuk buka semula."
-    : "Muzik dibuka semula. Selamat hari jadi, kawan!";
+    ? "Tekan ikon untuk lagu"
+    : "Muzik dibuka semula.";
 });
 
 window.addEventListener("load", () => {
