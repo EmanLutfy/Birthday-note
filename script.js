@@ -10,7 +10,7 @@ const stories = [
   {
     path: "/story-2",
     title: "HI IRFAN HI HI IRFAN HI HI HI HI IRFAN HI HI HI HI IRFAN 😺😺😺😺",
-    message: "Tak kan lah x igt birthday, xyh ckp pun mmg dah tau dri thun lps birthday bila. sje je tdi. ❤️😹, bersedia tak ? tapi jangan terkejut pulak HAHHA"
+    message: "Tak kan lah tak igt birthday, tak  ckp pun mmg dah tau dri thun lps bila birthday ifan, sje je tdi ❤️😹, bersedia tak ? tapi jangan terkejut pulak HAHHA"
   },
   {
     path: "/story-3",
