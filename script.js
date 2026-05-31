@@ -191,7 +191,7 @@ function render(pushUrl = false) {
         <p class="p4-sign">
           dibuat dengan hati oleh 
         <a
-          href="https://x.com/Aiman_Asril"
+          href="https://x.com/0x_emann"
           target="_blank"
           class="p4-credit"
           >
